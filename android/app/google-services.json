@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898836146919",
+    "project_id": "cryptonews-13196",
+    "storage_bucket": "cryptonews-13196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898836146919:android:e5eaefbaeb1252a6fd9042",
+        "android_client_info": {
+          "package_name": "com.example.cyptonews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgbtq4OE50_qYfMXsqha0FCbum4pS1k1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
